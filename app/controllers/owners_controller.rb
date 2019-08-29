@@ -5,7 +5,7 @@ class OwnersController < ApplicationController
     erb :'/owners/index' 
   end
 
-  get '/owners/new' do 
+
     erb :'/owners/new'
   end
 
